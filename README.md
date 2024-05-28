@@ -9,7 +9,7 @@ También puedes ver mis trabajos en: **[aliciavento.xyz](https://www.aliciavento
 
 ### **🧑‍💻 Lenguajes de programación**
 
-- Javascript
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### **🎨 Frontend**
 
@@ -22,29 +22,14 @@ También puedes ver mis trabajos en: **[aliciavento.xyz](https://www.aliciavento
 
 ### **🔧 Base de datos**
 
-- PostgreSQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### **📎 Software**
 
-- Visual Studio Code
-- Postman
-- PgAdmin
-- Dbeaver
-- Windows
-- MacOS
-- Figma
-- Trello
-- Jira
-- Balsamiq
-- Miro
-- Adobe Cloud
-- Optimal Workshop
-- Google Analytics
-- Notion
-- Wordpress 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)![Dbeaver](https://img.shields.io/badge/Dbeaver-009B76?style=for-the-badge&logo=dbeaver&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)![Balsamiq](https://img.shields.io/badge/Balsamiq-000000?style=for-the-badge&logo=balsamiq&logoColor=white)![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)![Adobe Cloud](https://img.shields.io/badge/Adobe_Cloud-FF0000?style=for-the-badge&logo=adobe-cloud&logoColor=white)![Optimal Workshop](https://img.shields.io/badge/Optimal_Workshop-244E96?style=for-the-badge&logo=optimal-workshop&logoColor=white)![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ### **📝 Version control system**
 
-- Git
-- GitHub
-- GitLab
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
