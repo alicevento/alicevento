@@ -9,24 +9,47 @@ También puedes ver mis trabajos en: [aliciavento.xyz](https://www.aliciavento.x
 
 ### **🧑‍💻 Lenguajes de programación**
 
-Javascript
+- Javascript
 
 ### **🎨 Frontend**
 
-HTML5 CSS3 Bootstrap Javascript Talwind CSS Jquery
+- HTML5
+- CSS3
+- Bootstrap
+- Javascript
+- Talwind CSS
+- Jquery
 
 ### **🔨 Backend**
 
-Nodejs Express
+- Node.js
+- Express
 
 ### **🔧 Base de datos**
 
-PostgreSQL
+- PostgreSQL
 
 ### **📎 Software**
 
-Visual Studio Code Postman PgAdmin Dbeaver Windows MacOS Figma Trello Jira Balsamiq Miro Adobe Cloud Optimal Workshop Google Analitics Notion Worpress 
+- Visual Studio Code
+- Postman
+- PgAdmin
+- Dbeaver
+- Windows
+- MacOS
+- Figma
+- Trello
+- Jira
+- Balsamiq
+- Miro
+- Adobe Cloud
+- Optimal Workshop
+- Google Analytics
+- Notion
+- Wordpress 
 
 ### **📝 Version control system**
 
-Git GitHub GitLab
+- Git
+- GitHub
+- GitLab
