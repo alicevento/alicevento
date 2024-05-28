@@ -1,11 +1,11 @@
 **##Hola 👋🏻, Soy Alice**
-Desarrolladora Full Stack y Diseñadora UX/UI. Actualmente me especializo en JavaScript y sus frameworks o librerías derivados.
+### ## Desarrolladora Full Stack y Diseñadora UX/UI. Actualmente me especializo en JavaScript y sus frameworks o librerías derivados.
 
 **#📫 Contacto**
 
-Puedes contactarme a través de mi correo electrónico: hello@aliciavento.xyz
-Puedes contactarme a través de [Linkedin](https://www.linkedin.com/in/aliciavento/)
-Puedes visitar mi sitio web [aliciavento.xyz](https://www.aliciavento.xyz/es.html)
+Puedes contactarme en: hello@aliciavento.xyz
+ó en: [Linkedin](https://www.linkedin.com/in/aliciavento/)
+También puedes ver mis trabajos en: [aliciavento.xyz](https://www.aliciavento.xyz/es.html)
 
 **#🧑‍💻 Lenguajes de programación**
 
