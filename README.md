@@ -31,7 +31,11 @@ También puedes ver mis trabajos en: **[aliciavento.xyz](https://www.aliciavento
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### ** 🛡️ Seguridad**
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F0730D?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### **📎 Software**
 
