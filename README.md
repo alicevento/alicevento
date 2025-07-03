@@ -10,6 +10,8 @@ También puedes ver mis trabajos en: **[aliciavento.xyz](https://www.aliciavento
 ### **🧑‍💻 Lenguajes de programación**
 
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### **🎨 Frontend**
 
@@ -23,6 +25,12 @@ También puedes ver mis trabajos en: **[aliciavento.xyz](https://www.aliciavento
 ### **🔧 Base de datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **☁️ Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ### **📎 Software**
